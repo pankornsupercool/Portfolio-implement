@@ -10,6 +10,9 @@ h1{
     font-family: 'Sacramento', cursive;
     font-size: 90px;
 }
+้้.sacramento{
+    font-family: 'Sacramento', cursive;
+}
 p{
     font-size: 20px;
     
@@ -44,17 +47,18 @@ p{
 
 
 .skill-row{
-    width: 50%;
-    margin: 100px auto 100px auto;
+    width: 60%;
+    margin: 100px auto 200px auto;
     text-align: left;
     line-height: 2;
+    
 }
 
 hr{
     margin-top: 60px;
     border-style: none;
     border-top-style: dotted;
-    width: 50%;
+    width: 30%;
     border-width: 10px;
     border-color: black;
     opacity: 0.7;
@@ -62,19 +66,20 @@ hr{
 
 a{
     color: #11999E;
+    font-size: 20px;
     text-decoration: none;
     margin: 10px 20px;
 }
 a:hover{
-    color:black;
+    color:white;
 }
 
 
 .middle-container{
-    
+
 }
 .bottom-container{
-    background-color:azure;
+    background-color:blanchedalmond;
     padding-top: 20px;
     padding-bottom: 20px;
 }
