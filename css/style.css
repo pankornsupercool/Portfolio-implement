@@ -1,4 +1,5 @@
 body{
+    background-color: azure;
     text-align: center;
     margin: 0;
     font-family: 'Merriweather', serif;
@@ -26,12 +27,12 @@ p{
 .cloud_1{
     position:absolute;
     right:300px;
-    top:440px;
+    top:400px;
 }
 .cloud_2{
     position:absolute;
-    top: 500px;
-    left: 350px;
+    top: 950px;
+    left: 60px;
 }
 
 .mountain{
@@ -41,8 +42,8 @@ p{
 
 .sun_1{
     position:absolute;
-    top:10px;
-    right: 30px;
+    top:1700px;
+    right: 100px;
 }
 
 

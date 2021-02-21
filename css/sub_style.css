@@ -1,10 +1,10 @@
 
 
 .img-2{
-    margin-top: 100px;
-    margin-bottom: 20px;
-    width: 190px;
-    height: 190px;
+    margin-top: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 30%;
     border:2px solid #fff;
     background-color:skyblue;
     -moz-box-shadow: 0px 6px 5px #ccc;
@@ -33,7 +33,7 @@
 }
 
 .img-4{
-    width: 30%;
+    width: 40%;
     border:2px solid #fff;
     background-color:burlywood;
     -moz-box-shadow: 0px 6px 5px #ccc;
@@ -65,6 +65,8 @@
 
 .p_bold{
     font-weight: bold;
+    margin-bottom: 100px;
+    font-size: 30px;
 }
 
 .text_color1{
@@ -77,8 +79,8 @@
 }
 
 .text_padding{
-    padding-top: 40px;
-    font-size: 80px;
+    padding-top: 60px;
+    font-size: 90px;
     font-family: 'Sacramento', cursive;
     
 }
