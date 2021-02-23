@@ -89,6 +89,15 @@
     padding-top: 20px;
 }
 
-span{
+
+.nav_skill{
+    font-size: 1em;
+    font-weight: bolder;
+    color: black;
     text-decoration: underline;
+    margin-right: 0;
+    margin-left: 0;
+}
+.nav_skill:hover{
+    color:orange;
 }
